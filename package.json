@@ -1,0 +1,19 @@
+{
+	"name": "ipmsg-cli",
+	"description": "This is an implementation of IP Messenger communication protocol in Node.js. You can use this to send and receive messages form other IP Messenger implementations.",
+	"version": "1",
+	"keywords": ["message", "ipmsg", "cli"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MrRar/node-ipmsg.git"
+	},
+	"bin": {
+		"ipmsg": "index.js"
+	},
+	"main": "index.js",
+	"author": {
+		"name": "Mr. Rar",
+		"url": "http://www.mrrar.github.io/"
+	},
+	"license": "GPL-3.0"
+}
