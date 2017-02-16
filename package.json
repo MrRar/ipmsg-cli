@@ -5,7 +5,7 @@
 	"keywords": ["message", "ipmsg", "cli"],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MrRar/node-ipmsg.git"
+		"url": "https://github.com/MrRar/ipmsg-cli.git"
 	},
 	"bin": {
 		"ipmsg": "index.js"
